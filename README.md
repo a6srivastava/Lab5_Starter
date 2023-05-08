@@ -2,6 +2,6 @@
 
 Name: Abhimanyu Srivastava 
 
-Expose.html: 
+Expose.html: https://a6srivastava.github.io/Lab5_Starter/expose.html
 
-Explore.html:
+Explore.html: https://a6srivastava.github.io/Lab5_Starter/explore.html
